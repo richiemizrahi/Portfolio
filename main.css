@@ -1,6 +1,6 @@
 
 body{
-	font-family: arial;
+	font-family: Helvetica, arial, sans-serif;
 	padding-bottom: 330px;
 	background-image: -ms-radial-gradient(center, circle closest-corner, #343434 0%, #656565 100%);
 	background-image: -moz-radial-gradient(center, circle closest-corner, #343434 0%, #656565 100%);
@@ -162,7 +162,8 @@ a{
 	padding: 10px;
 }
 h1{
-	margin-left: 30px;
+	margin:0 0 20px 30px;
+	padding-top: 10px;
 	border-bottom: 2px solid DarkGray;
 	border-radius: 3px;
 }
